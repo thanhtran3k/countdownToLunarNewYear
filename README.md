@@ -9,7 +9,7 @@
 * cd <your-app-name>
 * npm start (to check if it works or not)
 * copy my 'src' and paste it into your project folder.
-* And then you can you it.
+* And then you can use it.
 
 Read the docs of create-react-app
 
